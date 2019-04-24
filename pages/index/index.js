@@ -14,6 +14,7 @@ Page({
     wx.navigateTo({
       url: '../logs/logs'
     })
+    
   },
   bindViewInfo:function(){
     wx.navigateTo({
